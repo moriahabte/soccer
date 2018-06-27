@@ -1,0 +1,35 @@
+{
+    "season":"fall",
+    "days":"saturdays",
+    "games":[
+    {
+        
+        "date":"9/01",
+        "teams":"U1 and U4",
+        "location":"AJ Katzenmaier",
+        "times":"9:30 a.m.",
+        "googlemap": "https://goo.gl/maps/HENSrHpUus82"
+    }, 
+    {
+        "date":"9/01",
+        "teams":"U3 and U2",
+        "location":"Greenbay",
+        "times":"1:00 p.m.",
+        "googlemap": "https://goo.gl/maps/PE9RcVGUYAq"
+    },
+    { 
+        "date":"9/08",
+        "teams":"U5 and U6",
+        "location":"Howard A Yeager",
+        "times":"9:30 a.m.",
+        "googlemap": "https://goo.gl/maps/tVJhR8mDiuN2"
+    },
+    {
+        "date":"9/08",
+        "teams":"U6 and U1",
+        "location":"Marjorie P Hart",
+        "times":"1:00 p.m.",
+        "googlemap": "https://goo.gl/maps/f7147iWnDem"
+    },
+]
+}
